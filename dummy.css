@@ -1,0 +1,33 @@
+#name {
+            
+    text-align: center;
+    margin-left: 470;
+    
+}
+#hobbies{
+    text-align: center;
+}
+.hobilist{
+    margin-left: 540px;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+.direction p a{
+    text-decoration: none;
+    
+    
+}
+
+a{
+    color: aqua;
+}
+#button{
+    margin-left: 1000px;
+}
+h2{
+   background-color: rgb(172, 102, 102);
+   color: black;
+}
